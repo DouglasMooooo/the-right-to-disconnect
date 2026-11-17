@@ -1,0 +1,16 @@
+{
+  "lastSourceCheck": "2026-11-17",
+  "disclaimer": "General legal information and public-interest commentary only; not legal advice.",
+  "sources": [
+    {"category":"primary legislation","institution":"Commonwealth of Australia","title":"Fair Work Act 2009 (Cth), compilation C73 (latest compilation 7 July 2026)","provisions":["ss 62, 333M-333N, 340-341","Part 3-1"],"url":"https://www.legislation.gov.au/C2009A00028/latest/text","verified":true},
+    {"category":"official guidance","institution":"Fair Work Ombudsman","title":"Right to disconnect","url":"https://www.fairwork.gov.au/employment-conditions/right-to-disconnect","verified":true},
+    {"category":"official guidance","institution":"Fair Work Ombudsman","title":"Protections at work","url":"https://www.fairwork.gov.au/employment-conditions/protections-at-work","verified":true},
+    {"category":"official guidance","institution":"Fair Work Ombudsman","title":"Maximum weekly hours fact sheet","url":"https://www.fairwork.gov.au/tools-and-resources/fact-sheets/minimum-workplace-entitlements/maximum-weekly-hours","verified":true},
+    {"category":"official guidance","institution":"Fair Work Ombudsman","title":"Bullying in the workplace","url":"https://www.fairwork.gov.au/employment-conditions/bullying-in-the-workplace","verified":true},
+    {"category":"official guidance","institution":"Fair Work Commission","title":"Right to disconnect disputes","url":"https://www.fwc.gov.au/issues-we-help/right-disconnect","verified":true},
+    {"category":"international instrument","institution":"European Parliament and Council of the European Union","title":"Directive 2003/88/EC","url":"https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32003L0088","provisions":["Arts 3, 5, 6"],"verified":true},
+    {"category":"official guidance","institution":"U.S. Department of Labor, Wage and Hour Division","title":"Fact Sheet #22: Hours Worked Under the FLSA","url":"https://www.dol.gov/agencies/whd/fact-sheets/22-flsa-hours-worked","verified":true},
+    {"category":"official guidance","institution":"U.S. Department of Labor, Wage and Hour Division","title":"Overtime pay","url":"https://www.dol.gov/agencies/whd/overtime","verified":true},
+    {"category":"project inspiration","institution":"996.ICU","title":"996.ICU GitHub repository; README.md, README_CN.md, LICENSE and LICENSE_CN reviewed for project context and attribution","url":"https://github.com/996icu/996.ICU","legalAuthority":false,"verified":true}
+  ]
+}

@@ -29,13 +29,7 @@ The project uses Next.js App Router, React, TypeScript, Tailwind CSS and lucide-
 
 ## Deploy
 
-1. Create a GitHub repository named `the-right-to-disconnect` under the account or organisation you control.
-2. Set the remote in this checkout: `git remote add origin https://github.com/OWNER/the-right-to-disconnect.git`.
-3. Commit and push the repository to its default branch.
-4. In Vercel, import that GitHub repository. Use the Next.js preset and keep the build command `npm run build`; Vercel will detect the static export in `out/`.
-5. Replace `https://github.com/your-org/the-right-to-disconnect` in `app/page.tsx` with the actual public repository URL before publication. Set the canonical `metadataBase` in `app/layout.tsx` to the deployed domain.
-
-No deployment has been performed from this checkout.
+The source repository is public at <https://github.com/DouglasMooooo/the-right-to-disconnect>. To deploy, import it in Vercel, use the Next.js preset and `npm run build`, then add your deployed domain to the metadata configuration in `app/layout.tsx`. Vercel authentication was not available in this environment, so the site has not been deployed.
 
 ## Editorial and legal review
 

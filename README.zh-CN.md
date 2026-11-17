@@ -29,13 +29,7 @@ npm run build
 
 ## GitHub 与 Vercel 部署
 
-1. 在你控制的 GitHub 账号或组织下创建名为 `the-right-to-disconnect` 的仓库。
-2. 在本地仓库添加远程地址：`git remote add origin https://github.com/OWNER/the-right-to-disconnect.git`。
-3. 提交并推送到默认分支。
-4. 在 Vercel 导入该 GitHub 仓库，使用 Next.js 预设和 `npm run build` 构建命令；Vercel 可识别 `out/` 静态导出目录。
-5. 发布前，将 `app/page.tsx` 中的 `https://github.com/your-org/the-right-to-disconnect` 替换为实际仓库地址，并将 `app/layout.tsx` 的 `metadataBase` 改成部署域名。
-
-目前没有从本地工作区执行仓库创建或部署。
+公开源码仓库地址：<https://github.com/DouglasMooooo/the-right-to-disconnect>。部署时，在 Vercel 导入该仓库，选择 Next.js 预设并使用 `npm run build`，然后在 `app/layout.tsx` 的元数据配置中加入部署域名。本环境没有 Vercel 认证，因此尚未部署网站。
 
 ## 编辑及法律资料复核
 

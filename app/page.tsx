@@ -13,7 +13,7 @@ const url = {
   eu: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32003L0088",
   us: "https://www.dol.gov/agencies/whd/fact-sheets/22-flsa-hours-worked",
   usot: "https://www.dol.gov/agencies/whd/overtime",
-  repo: "https://github.com/your-org/the-right-to-disconnect",
+  repo: "https://github.com/DouglasMooooo/the-right-to-disconnect",
   source: "https://github.com/996icu/996.ICU",
 };
 const principles = [

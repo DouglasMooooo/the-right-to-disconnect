@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" preserveAspectRatio="none">
+  <rect width="600" height="400" fill="#fff"/>
+  <path fill="#b22234" d="M0 0h600v31H0zm0 62h600v31H0zm0 62h600v31H0zm0 62h600v31H0zm0 62h600v31H0zm0 62h600v31H0zm0 62h600v31H0z"/>
+  <rect width="250" height="216" fill="#3c3b6e"/>
+  <g fill="#fff">
+    <circle cx="25" cy="22" r="7"/><circle cx="67" cy="22" r="7"/><circle cx="109" cy="22" r="7"/><circle cx="151" cy="22" r="7"/><circle cx="193" cy="22" r="7"/><circle cx="235" cy="22" r="7"/>
+    <circle cx="46" cy="57" r="7"/><circle cx="88" cy="57" r="7"/><circle cx="130" cy="57" r="7"/><circle cx="172" cy="57" r="7"/><circle cx="214" cy="57" r="7"/>
+    <circle cx="25" cy="92" r="7"/><circle cx="67" cy="92" r="7"/><circle cx="109" cy="92" r="7"/><circle cx="151" cy="92" r="7"/><circle cx="193" cy="92" r="7"/><circle cx="235" cy="92" r="7"/>
+    <circle cx="46" cy="127" r="7"/><circle cx="88" cy="127" r="7"/><circle cx="130" cy="127" r="7"/><circle cx="172" cy="127" r="7"/><circle cx="214" cy="127" r="7"/>
+    <circle cx="25" cy="162" r="7"/><circle cx="67" cy="162" r="7"/><circle cx="109" cy="162" r="7"/><circle cx="151" cy="162" r="7"/><circle cx="193" cy="162" r="7"/><circle cx="235" cy="162" r="7"/>
+    <circle cx="46" cy="197" r="7"/><circle cx="88" cy="197" r="7"/><circle cx="130" cy="197" r="7"/><circle cx="172" cy="197" r="7"/><circle cx="214" cy="197" r="7"/>
+  </g>
+</svg>

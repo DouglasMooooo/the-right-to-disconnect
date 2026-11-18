@@ -1,5 +1,9 @@
 # The Right to Disconnect
 
+## Cloudflare Pages production
+
+The [production snapshot](production/) matches [payorpray.pages.dev](https://payorpray.pages.dev/). Serve it locally with `python -m http.server 8000 --directory production`. The Next.js source at the repository root represents an earlier version.
+
 **Professionalism is not obedience.** An independent, bilingual public-interest declaration on workplace dignity, lawful boundaries and after-hours contact.
 
 This repository contains a static Next.js site in English and Simplified Chinese. It focuses on Australian workplace law and offers qualified comparative context for the European Union and United States. It is not legal advice and does not identify employers or individual workers.

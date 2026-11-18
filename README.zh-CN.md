@@ -1,5 +1,9 @@
 # 下班后，仍是自己｜The Right to Disconnect
 
+## Cloudflare Pages 线上版本
+
+[线上静态文件](production/) 与 [payorpray.pages.dev](https://payorpray.pages.dev/) 对应。运行 `python -m http.server 8000 --directory production` 可在本地预览。仓库根目录的 Next.js 源码对应较早版本。
+
 **职业精神，不是无条件服从。** 一份关于职场尊严、合法边界与工作时间外联系的独立双语公益宣言。
 
 本仓库包含使用 Next.js 静态构建的英文与简体中文网站。内容以澳大利亚职场法律为重点，并对欧盟和美国制度作审慎比较。本项目不构成法律意见，不指认任何雇主或个人。
